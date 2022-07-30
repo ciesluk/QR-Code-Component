@@ -21,6 +21,7 @@ main{
     padding: 10px;
     display: flex;
     flex-direction: column;
+    box-shadow: hsl(220, 15%, 80%) 0px 10px 20px;
 }
 
 .main-title{
