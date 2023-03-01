@@ -1,6 +1,4 @@
-# Frontend Mentor - QR code component solution
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# QR code component solution
 
 ## Table of contents
 
@@ -9,7 +7,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 
@@ -32,10 +29,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML5 Markup
 - CSS3
 - Flexbox
-
-### What I learned
-
-During this project I enhanced my knowledge of CSS Flexbox. I used Flexbox to firstly center the card component to the center of the page. Flexbox was also used to make the components in the card be in the flex-direction column. 
 
 ## Author
 
